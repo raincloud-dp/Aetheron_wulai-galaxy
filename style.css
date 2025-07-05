@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    font-family: 'Helvetica', sans-serif;
+    background-color: #f7f2fc;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #3c2e4d;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-top: 50px;
+    color: #a066c9;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+footer {
+    margin-top: 60px;
+    font-size: 0.9em;
+    color: #888;
+}
